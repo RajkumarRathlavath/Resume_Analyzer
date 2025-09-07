@@ -1,4 +1,4 @@
-Resume Analyzer
+# Resume Analyzer
 
 Resume Analyzer is a web application that allows users to upload resumes (PDF or DOCX) and automatically extracts key information like name, email, phone, education, and experience. It’s built using FastAPI for the backend and supports a simple browser interface.
 
