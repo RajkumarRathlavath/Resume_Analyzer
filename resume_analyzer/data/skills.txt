@@ -1,0 +1,9 @@
+Python
+SQL
+Power BI
+Tableau
+Excel
+Machine Learning
+Data Analysis
+AI
+Cloud Computing
